@@ -78,7 +78,7 @@ button:disabled {
   right: 770px;
 }
 
-.test input {
+.password input {
   width: 300px;
   display: flex;
   align-items: center;
